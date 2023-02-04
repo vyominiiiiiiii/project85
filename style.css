@@ -1,0 +1,55 @@
+#heading{
+    color: blueviolet;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+input{
+    margin:10px;
+}
+
+#submitBtn{
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
+#sortBtn{
+margin-top: 20px;
+margin-bottom: 20px;
+display: none;
+}
+
+
+body{
+    background-color: rgb(0, 0, 255);
+}
+
+
+#heading{
+color: beige;
+}
+
+#studentName1{
+    border-radius: 15px;
+}
+
+#studentName2{
+    border-radius: 15px;
+}
+
+#studentName3{
+    border-radius: 15px;
+}
+
+#studentName4{
+    border-radius: 15px;
+}
+
+.studentsImg{
+    width: 25%;
+}
+
+#submitBtn{
+    border-radius: 15px;
+
+}
